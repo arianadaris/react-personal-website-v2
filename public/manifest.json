@@ -1,0 +1,8 @@
+{
+  "short_name": "Ariana Daris Personal Website",
+  "name": "Ariana Daris Personal Website V2",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
